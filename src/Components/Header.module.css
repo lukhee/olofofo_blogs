@@ -1,0 +1,12 @@
+.Submit{
+    background: #FF851B;
+    color: white;
+    padding: 2px 20px;
+    border-radius: 4px;
+    font-weight: 700;
+}
+
+.Submit:hover{
+    background: #de7418;
+;
+}
